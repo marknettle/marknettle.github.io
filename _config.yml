@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en"
+text_title:              : "e^&pi;i +1"
 title                    : "e<sup>&pi;i</sup>+1"
 title_separator          : "-"
 name                     : "Mark Nettle"
@@ -78,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Mark Nettle"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am a person."
   location         : "Auckland, NZ"
   email            :
   uri              :
