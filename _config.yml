@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-text_title:              : "e^&pi;i +1"
-title                    : "e<sup>&pi;i</sup>+1"
-title_separator          : "-"
+title                    : "e^&pi;i +1"
+title_html               : "e<sup>&pi;i</sup>+1"
+title_separator          : "|"
 name                     : "Mark Nettle"
 description              : "A website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
